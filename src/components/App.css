@@ -1,0 +1,21 @@
+body {
+  background-image: url("./bg.png");
+  background-repeat: no-repeat;
+  background-color: #070709;
+  color: white;
+}
+
+.color_nav {
+  background-color: #f3971b;
+}
+
+.font {
+  font-size: medium;
+}
+
+.boxbacground {
+  background-image: url("./banner.png");
+}
+.black {
+  background-color: black;
+}
