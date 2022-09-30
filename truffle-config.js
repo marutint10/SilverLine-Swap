@@ -6,7 +6,7 @@ const HDWalletProvider = require("@truffle/hdwallet-provider");
 //   .trim();
 
 const mnemonic =
-  "bottom seven okay purse fragile step exotic wait vessel better tape animal";
+  "//";
 
 module.exports = {
   contracts_directory: "./src/contracts/",
